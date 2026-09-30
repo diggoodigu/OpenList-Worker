@@ -116,7 +116,6 @@
     //
     // KV namespace ID
     // "CF_KV_UUID": "",
-      {
         // ...
         "kv_namespaces": [
           {
@@ -125,7 +124,6 @@
           }
         ],
         // ...
-      }
     //
     // 账户 ID
     // "CF_ACCOUNT": "",
