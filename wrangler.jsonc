@@ -116,6 +116,16 @@
     //
     // KV namespace ID
     // "CF_KV_UUID": "",
+      {
+        // ...
+        "kv_namespaces": [
+          {
+            "binding": "KV",
+            "id": "8cbabed55588453b8d8c718864f16d63"
+          }
+        ],
+        // ...
+      }
     //
     // 账户 ID
     // "CF_ACCOUNT": "",
